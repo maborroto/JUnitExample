@@ -1,1 +1,1 @@
-**Example to illustrate JUnit annotations and Asserts**
+**Example to illustrate JUnit annotations and Assertions**
